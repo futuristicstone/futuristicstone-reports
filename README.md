@@ -8,9 +8,15 @@ This repository contains two comprehensive cybersecurity reports that showcase m
 This report demonstrates my skills in performing penetration testing on a target network/system. It includes detailed findings, methodologies, and recommendations for improving security posture.
 
 #### Key Highlights:
-- **Tools Used:** Nmap, Metasploit, Burp Suite, Hydra
+- **Tools Used:** Nmap, OSINT, Nessus, RCE, Metasploit, Burp Suite
 - **Scope:** External penetration testing, web application vulnerabilities, network scanning
 - **Findings:** Critical vulnerabilities, exploitation techniques, and security recommendations
+
+#### Feedback and Recognition from Teaching Assistant
+> "Your report truly stands out among the past 2 cohorts due to the impressive technical depth you've showcased. The documentation is excellent, and the inclusion of an executive summary, detailed findings and evidence, risk assessments, and actionable recommendations makes it incredibly thorough."
+
+> "One of the most valuable aspects of your report is the way you've managed to clearly and understandably explain complex technical details and connect them to strategic decision-making. This makes your report not only useful for technical stakeholders but also accessible and impactful for non-technical audiences. Your ability to effectively bridge this gap is a testament to your strong communication skills and deep understanding of the subject matter."
+
 
 [Penetration Test Report](./pen-test-report/README.md)
 
@@ -19,7 +25,7 @@ This report illustrates my expertise in conducting digital forensics investigati
 
 #### Key Highlights:
 - **Tools Used:** EnCase, FTK Imager, Autopsy, Sleuth Kit
-- **Scope:** Disk image analysis, file carving, timeline creation, incident response
+- **Scope:** a brief summary of the case, your tools and equipment, unique details about the device, contact info and conclusions about the subjects, significant evidence of the theft and vandalism conspiracies, a plot timeline, conclusions based on the evidence, email and SMS correspondence, and GPS location evidence
 - **Findings:** Detailed chain of custody, forensic analysis steps, and incident resolution
 
 [Digital Forensics Report](./digital-forensics-report/README.md)
