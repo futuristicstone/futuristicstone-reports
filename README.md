@@ -17,8 +17,8 @@ This report demonstrates my skills in performing penetration testing on a target
 
 > "One of the most valuable aspects of your report is the way you've managed to clearly and understandably explain complex technical details and connect them to strategic decision-making. This makes your report not only useful for technical stakeholders but also accessible and impactful for non-technical audiences. Your ability to effectively bridge this gap is a testament to your strong communication skills and deep understanding of the subject matter."
 
-
-[Penetration Test Report](./pen-test-report/README.md)
+https://github.com/futuristicstone/futuristicstone-reports/blob/main/pen-test.pdf
+[Penetration Test Report]([./pen-test-report/README.md](https://github.com/futuristicstone/futuristicstone-reports/blob/main/pen-test.pdf))
 
 ### 2. Digital Forensics Report
 This report illustrates my expertise in conducting digital forensics investigations. It focuses on the analysis of digital evidence from a suspected security breach and includes detailed steps for data acquisition, analysis, and evidence preservation.
