@@ -24,7 +24,7 @@ This report illustrates my expertise in conducting digital forensics investigati
 
 #### Key Highlights:
 - **Tools Used:** Kali Linux Terminal, Sleuth Kit Autopsy Forensic Application, SQlite Browser, MD5 and SHA-256 hashes to ensure the integrity of the evidence, Evidence Tagging ( +CAT-6 Items of Interest)
-- **Scope:** On January 21, 2016, Digitech Inc. was called in to assist Pure Gold Credit Union (PGCU)) case involving the conspiracy associated with the theft of funds. As part of the investigation, Peter’s (primary suspect) iPhone was taken into custody. Digitech, Inc. was tasked with investigating evidence relevant to the aforementioned conspiracy. Through my research I found evidence strongly suggesting a conspiracy between PGCU employees to fraudulently withdraw funds. Upon further investigation, I identify Peter Barnes, Rosie Lloyd and alias Hockeyfan474 as conspirators. 
+- **Scope:** On January 21, 2016, Digitech Inc. was called in to assist Pure Gold Credit Union (PGCU) case involving the conspiracy associated with the theft of funds. As part of the investigation, Peter’s (primary suspect) iPhone was taken into custody. Digitech, Inc. was tasked with investigating evidence relevant to the aforementioned conspiracy. Through my research I found evidence strongly suggesting a conspiracy between PGCU employees to fraudulently withdraw funds. Upon further investigation, I identify Peter Barnes, Rosie Lloyd and alias Hockeyfan474 as conspirators. 
 - **Findings:** Detailed chain of custody, forensic analysis steps, and incident resolution
 
 [Digital Forensics Report](digital-forensics-autopsy-kalilinux.pdf)
@@ -32,7 +32,7 @@ This report illustrates my expertise in conducting digital forensics investigati
 ---
 
 ## About Me
-I am a cybersecurity professional with expertise in both offensive and defensive security. My work ranges from identifying vulnerabilities through penetration testing to preserving and analyzing digital evidence in forensic investigations. 
+I am new to the cybersecurity space, with experiencee in both offensive and defensive security. My portfolio includes work ranging from identifying vulnerabilities through penetration testing to preserving and analyzing digital evidence in forensic investigations. 
 
 If you're a recruiter, employer, or cybersecurity enthusiast, feel free to reach out for collaboration or further discussions on these projects.
 
