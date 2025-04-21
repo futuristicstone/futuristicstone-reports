@@ -37,9 +37,9 @@ I am a cybersecurity professional with expertise in both offensive and defensive
 If you're a recruiter, employer, or cybersecurity enthusiast, feel free to reach out for collaboration or further discussions on these projects.
 
 ### Contact Information:
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ashleyteslik)
+- **LinkedIn:** [ashelyteslik](https://www.linkedin.com/in/ashleyteslik)
 - **Email:** ashleyteslik@gmail.com
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **GitHub:** [futuristicstone](https://github.com/futuristicstone)
 
 ---
 
