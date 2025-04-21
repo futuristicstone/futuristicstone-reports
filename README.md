@@ -27,7 +27,7 @@ This report illustrates my expertise in conducting digital forensics investigati
 - **Scope:** a brief summary of the case, your tools and equipment, unique details about the device, contact info and conclusions about the subjects, significant evidence of the theft and vandalism conspiracies, a plot timeline, conclusions based on the evidence, email and SMS correspondence, and GPS location evidence
 - **Findings:** Detailed chain of custody, forensic analysis steps, and incident resolution
 
-[Digital Forensics Report](./digital-forensics-report/README.md)
+[Digital Forensics Report](digital-forensics-autopsy-kalilinux.pdf)
 
 ---
 
