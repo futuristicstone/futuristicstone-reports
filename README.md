@@ -23,8 +23,8 @@ This report demonstrates my skills in performing penetration testing on a target
 This report illustrates my expertise in conducting digital forensics investigations. It focuses on the analysis of digital evidence from a suspected security breach and includes detailed steps for data acquisition, analysis, and evidence preservation.
 
 #### Key Highlights:
-- **Tools Used:** EnCase, FTK Imager, Autopsy, Sleuth Kit
-- **Scope:** a brief summary of the case, your tools and equipment, unique details about the device, contact info and conclusions about the subjects, significant evidence of the theft and vandalism conspiracies, a plot timeline, conclusions based on the evidence, email and SMS correspondence, and GPS location evidence
+- **Tools Used:** Kali Linux Terminal, Sleuth Kit Autopsy Forensic Application, SQlite Browser, MD5 and SHA-256 hashes to ensure the integrity of the evidence, Evidence Tagging ( +CAT-6 Items of Interest)
+- **Scope:** On January 21, 2016, Digitech Inc. was called in to assist Pure Gold Credit Union (PGCU)) case involving the conspiracy associated with the theft of funds. As part of the investigation, Peter’s (primary suspect) iPhone was taken into custody. Digitech, Inc. was tasked with investigating evidence relevant to the aforementioned conspiracy. Through my research I found evidence strongly suggesting a conspiracy between PGCU employees to fraudulently withdraw funds. Upon further investigation, I identify Peter Barnes, Rosie Lloyd and alias Hockeyfan474 as conspirators. 
 - **Findings:** Detailed chain of custody, forensic analysis steps, and incident resolution
 
 [Digital Forensics Report](digital-forensics-autopsy-kalilinux.pdf)
@@ -37,8 +37,8 @@ I am a cybersecurity professional with expertise in both offensive and defensive
 If you're a recruiter, employer, or cybersecurity enthusiast, feel free to reach out for collaboration or further discussions on these projects.
 
 ### Contact Information:
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Email:** [Your Email Address]
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ashleyteslik)
+- **Email:** ashleyteslik@gmail.com
 - **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
 
 ---
