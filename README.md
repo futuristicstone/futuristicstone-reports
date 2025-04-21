@@ -37,11 +37,6 @@ I am a cybersecurity professional with expertise in both offensive and defensive
 If you're a recruiter, employer, or cybersecurity enthusiast, feel free to reach out for collaboration or further discussions on these projects.
 
 ### Contact Information:
-- **LinkedIn:** [ashelyteslik](https://www.linkedin.com/in/ashleyteslik)
+- **LinkedIn:** [ashleyteslik](https://www.linkedin.com/in/ashleyteslik)
 - **Email:** ashleyteslik@gmail.com
 - **GitHub:** [futuristicstone](https://github.com/futuristicstone)
-
----
-
-## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
