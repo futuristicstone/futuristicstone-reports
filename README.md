@@ -34,8 +34,6 @@ This report illustrates my expertise in conducting digital forensics investigati
 ## About Me
 I am new to the cybersecurity space, with experiencee in both offensive and defensive security. My portfolio includes work ranging from identifying vulnerabilities through penetration testing to preserving and analyzing digital evidence in forensic investigations. 
 
-If you're a recruiter, employer, or cybersecurity enthusiast, feel free to reach out for collaboration or further discussions on these projects.
-
 ### Contact Information:
 - **LinkedIn:** [ashleyteslik](https://www.linkedin.com/in/ashleyteslik)
 - **Email:** ashleyteslik@gmail.com
